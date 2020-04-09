@@ -1,0 +1,25 @@
+{
+  "name": "api-mongo-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gabrielo91/api-mongo-node.git"
+  },
+  "author": "Gabriel <gabrielo_9103@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielo91/api-mongo-node/issues"
+  },
+  "homepage": "https://github.com/gabrielo91/api-mongo-node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "sinon": "^9.0.2"
+  }
+}
